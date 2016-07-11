@@ -1,6 +1,6 @@
 # obfuscation
 
-Create new short name for css class
+Create new unique short name for css class
 
 #Install
 npm install
