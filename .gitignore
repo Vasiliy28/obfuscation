@@ -1,0 +1,4 @@
+.idea
+node_modules/chai
+node_modules/.bin
+node_modules/mocha

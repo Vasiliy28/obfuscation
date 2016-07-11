@@ -1,0 +1,28 @@
+{
+  "name": "obfuscation-css-classes",
+  "version": "1.0.0",
+  "description": "task for Yandex",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "obfuscation": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasiliy28/obf.git"
+  },
+  "author": "Vasiliy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasiliy28/obf/issues"
+  },
+  "homepage": "https://github.com/Vasiliy28/obf#readme"
+}
